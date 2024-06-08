@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T15:15:17.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="8YycfkPNZrM7EzzzHHRL" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T15:16:04.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="UHaCMKqk0Do2mNFBkwKb" version="24.4.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2233" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-1" value="Parcela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-1" value="parcela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-2" value="Proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-2" value="proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-3" value="Lucrare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-3" value="lucrare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-4" value="Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-4" value="document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-5" value="Parcela_Proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-5" value="parcela_proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-6" value="Drum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-6" value="drum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0PCSpaVsSfNCAGx0SAz-7" value="Punct_Interes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0PCSpaVsSfNCAGx0SAz-7" value="punct_interes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f0PCSpaVsSfNCAGx0SAz-8" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="f0PCSpaVsSfNCAGx0SAz-5">
